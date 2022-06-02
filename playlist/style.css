@@ -13,7 +13,7 @@ aside {
     width: 20%;
     height: 100%;
     position: fixed;
-    background-color: #33383e;
+    background-color: #70569c;
 }
 
 .aside__header {
@@ -22,7 +22,7 @@ aside {
 }
 
 main {
-    background-color: rgb(238, 238, 238);
+    background-color: rgb(131, 75, 161);
     flex-basis: 80%;
     height: 1000px;
     flex-grow: 1;
