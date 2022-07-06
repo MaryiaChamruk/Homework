@@ -1,6 +1,6 @@
 body {
     position: relative;
-    background-image: url(https://img2.goodfon.ru/original/2880x1800/8/be/monako-monaco-monte-carlo.jpg);
+    background-image: url(https://vsegda-pomnim.com/uploads/posts/2022-03/1647611644_27-vsegda-pomnim-com-p-karibskoe-more-foto-29.jpg);
     backdrop-filter: blur(0px);
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,7 +11,7 @@ body {
 }
 
 fieldset {
-    border: solid 1px #1c78c9;
+    border: solid 1px #40a1f6;
 }
 
 .legend {
@@ -52,11 +52,11 @@ textarea {
 }
 
 .bordergreen:hover {
-    border: solid 2px #1c6ac9;
+    border: solid 2px #4b95f0;
 }
 
 .bordergreen:focus, textarea:focus {
-    border: solid 2px #1c6dc9;
+    border: solid 2px #448ee4;
 }
 
 form {
@@ -100,7 +100,7 @@ button {
 }
 
 button:hover, button:focus {
-    border-color: rgba(9, 110, 252, 0.8);
+    border-color: rgba(82, 153, 251, 0.8);
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
     outline: 0 none;
 }
@@ -129,7 +129,7 @@ input[type='radio']::before {
     border-radius: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    border: 2px solid #1c5ec9;
+    border: 2px solid #4c86e4;
 }
 
 input[type='radio']:checked::after {
@@ -140,7 +140,7 @@ input[type='radio']:checked::after {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #1c5ec9;
+    background-color: #4480e1;
     transform: translate(-50%, -50%);
     visibility: visible;
 }
@@ -241,7 +241,7 @@ input[type=checkbox]:checked+.checkbox::after, input[type=checkbox]:checked+.che
 input[type=checkbox]:checked+.checkbox-label::before {
     position: absolute;
     left: 176px;
-    background: #1c6ac9;
+    background: #3d89e7;
     z-index: 1;
 }
 
@@ -262,6 +262,6 @@ input[type=checkbox]:checked+.checkbox-label::before {
 input[type=checkbox]:checked+.checkbox::before {
     position: absolute;
     left: 166px;
-    background: #1c4dc9;
+    background: #4776eb;
     z-index: 1;
 }
