@@ -95,15 +95,15 @@ body {
 }
 
 .price-basic::before {
-    content: "$20"
+    content: "$30"
 }
 
 .price-awesome::before {
-    content: "$50"
+    content: "$60"
 }
 
 .price-premium::before {
-    content: "100"
+    content: "$99"
 }
 
 .price-basic::before, .price-awesome::before, .price-premium::before {
